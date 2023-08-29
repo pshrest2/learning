@@ -1,3 +1,6 @@
 [submodule "learning-react-native"]
 	path = learning-react-native
 	url = https://github.com/pshrest2/learning-react-native.git
+[submodule "fastapi-practice"]
+	path = fastapi-practice
+	url = https://github.com/pshrest2/fastapi-practice.git
