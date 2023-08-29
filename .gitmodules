@@ -1,0 +1,3 @@
+[submodule "learning-react-native"]
+	path = learning-react-native
+	url = https://github.com/pshrest2/learning-react-native.git
